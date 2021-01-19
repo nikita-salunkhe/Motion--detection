@@ -8,4 +8,5 @@ Any motion detection system based on frame differencing needs to handle a number
 
 The main objective of the present research is to develop an algorithm that can handle the critical situations, and hence can used further to find location and velocity calculation of object.
 
-![alt text](https://drive.google.com/drive/u/1/folders/1aNNczGgTCFXDevWYY7G_qkGjPHp3WbJr)
+
+![alt text](https://github.com/nikita-salunkhe/Motion--detection/blob/main/flow%20chart.png?raw=true)
